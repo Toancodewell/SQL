@@ -1,5 +1,5 @@
 
-# 📊 SQL Query Collection by Nguyễn Văn Toàn
+# 📊 SQL Query Collection 
 
 This repository contains structured SQL scripts written in **PostgreSQL**, focused on data cleaning, subqueries, window functions, rankings, and sales analytics. Each file is clearly named by function and use case.
 
@@ -61,15 +61,6 @@ This repository contains structured SQL scripts written in **PostgreSQL**, focus
 
 ## 🛠 Tech Stack
 
-- **SQL Dialect**: PostgreSQL  
-- **Tools**: pgAdmin, DBeaver, DataGrip, or any compatible SQL IDE
+- **SQL Dialect**: My SQL  
 
----
-
-## ✅ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Toancodewell/SQL.git
-   cd SQL/main
 
